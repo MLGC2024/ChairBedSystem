@@ -142,6 +142,6 @@ Config.objects = {
 		[137] = {object="v_ilev_m_dinechair", verticalOffsetX=0.1, verticalOffsetY=0.0, verticalOffsetZ=-0.5, direction=168.0, bed=false},
 		[138] = {object="v_med_bed1", verticalOffsetX=0.0, verticalOffsetY=0.0, verticalOffsetZ=-1.4, direction=0.0, bed=true},
 		[139] = {object="v_ilev_leath_chr", verticalOffsetX=0.0, verticalOffsetY=0.0, verticalOffsetZ=-0.4, direction=168.0, bed=false},
-		[140] = {object="v_corp_offchair", verticalOffsetX=0.0, verticalOffsetY=0.0, verticalOffsetZ=-1.4, direction=0.0, bed=false},
+		[140] = {object="v_corp_offchair", verticalOffsetX=0.0, verticalOffsetY=0.0, verticalOffsetZ=-1.4, direction=0.0, bed=false}, 
 	}
 }
