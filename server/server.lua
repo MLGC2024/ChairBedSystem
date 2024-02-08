@@ -26,6 +26,7 @@ AddEventHandler('ChairBedSystem:Server:Enter', function(object, objectcoords)
         oPlayerUse[oSource] = objectcoords
         oArray[objectcoords] = true
         TriggerClientEvent('ChairBedSystem:Client:Animation', oSource, object, objectcoords)
+        TriggerServerEvent('wais:addmissionxp:liebed', src, 1) -- Added by Pamela for wais-battlepass
     end
 end)
 
